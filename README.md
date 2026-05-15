@@ -19,6 +19,8 @@ I transform complex data landscapes into strategic narratives that drive busines
 - **Data Wrangling**: Python (Pandas, NumPy), SQL (PostgreSQL, MySQL).
 - **BI & Visualization**: Power BI, Tableau, Advanced Excel (VBA/Power Query).
 - **Business Logic**: Variance Analysis, DCF Modeling, Unit Economics.
+### 📊 Featured Project**: Marketing Analytics Case Study
+👉 Click here for the Interactive Dashboard Experience(https://public.tableau.com/app/profile/juan.juan3558/viz/Marketing_Analytics_Case_Campaign/StoryData-DrivenCustomerSegmentationforBankingStrategy)
 
 ---
 [LinkedIn] | [Project Gallery] | [Contact Me]
