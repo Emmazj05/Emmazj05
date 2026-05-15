@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Emmazj05/Emmazj05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ Emma | Business & Financial Analyst
 
-Here are some ideas to get you started:
+I transform complex data landscapes into strategic narratives that drive business growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmazj05&show_icons=true&theme=radical" alt="Emma's Stats" />
+</p>
+
+### 🎯 Core Focus
+- **Strategic Analysis**: Identifying market trends and internal efficiencies to optimize ROI.
+- **Financial Modeling**: Building robust, data-driven forecasts to navigate business volatility.
+- **Data Visualization**: Translating multi-dimensional metrics into clear, actionable executive dashboards.
+
+### 🛠 Tech Stack & Tools
+- **Data Wrangling**: Python (Pandas, NumPy), SQL (PostgreSQL, MySQL).
+- **BI & Visualization**: Power BI, Tableau, Advanced Excel (VBA/Power Query).
+- **Business Logic**: Variance Analysis, DCF Modeling, Unit Economics.
+
+---
+[LinkedIn] | [Project Gallery] | [Contact Me]
